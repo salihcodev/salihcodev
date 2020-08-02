@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Ahmed👋
 
-<!--
-**salihcodev/salihcodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Twitter Follow](https://img.shields.io/twitter/follow/salihcodev?style=social)](https://twitter.com/salihcodev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer who is passionate about creating new things, And i'm really big fan to linux. Some technologies I enjoy working with include Javascript, ReactJS, And other frontend stuff🤓.
+
+
+[![linkedin Follow](https://img.shields.io/badge/linkedin-@salihcodev-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihcodev) [![Instagram Follow](https://img.shields.io/badge/instagram-@salihcodev-darkslateblue?style=flat&logo=instagram&logoColor=white)](https://instagram.com/salihcodev)
+
+
+
+-🔭 Ask me about **ReactJs and Frontend**
