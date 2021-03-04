@@ -20,7 +20,7 @@ I'm a software developer who is passionate about creating new things, And i'm re
 
 <br />
 
-<img align="left" alt="Salih's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&theme=onedark" />
+<img align="right" alt="Salih's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&theme=onedark" />
 
 
 
