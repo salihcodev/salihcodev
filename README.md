@@ -7,17 +7,23 @@ I'm a software developer who is passionate about creating new things, And i'm re
 
 
 
+<br />
+<br />
 #### Activities;
 
 <img align="left" alt="Salih's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&hide_border=true" />
 
-<br>
+<br />
+<br />
 
 <img align="left" alt="Salih's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev" />
 
-<br>
 
-#### Reach my;
+
+<br />
+<br />
+<br />
+#### Reach me out;
 
 [![linkedin Follow](https://img.shields.io/badge/linkedin-@salihcodev-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihcodev) [![Instagram Follow](https://img.shields.io/badge/instagram-@salihcodev-darkslateblue?style=flat&logo=instagram&logoColor=white)](https://instagram.com/salihcodev)
 
