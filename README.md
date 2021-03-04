@@ -12,13 +12,12 @@ I'm a software developer who is passionate about creating new things, And i'm re
 
 #### Activities;
 
-<img align="left" alt="Salih's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&hide_border=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&theme=merko)
 
 <br />
 <br />
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=salihcodev)](https://github.com/salihcodev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev&layout=compact&langs_count=15)](https://github.com/salihcodev/github-readme-stats)
 
 
 <br />
