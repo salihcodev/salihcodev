@@ -17,7 +17,8 @@ I'm a software developer who is passionate about creating new things, And i'm re
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev&layout=compact&langs_count=10)](https://github.com/salihcodev/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=salihcodev)](https://github.com/salihcodev/github-readme-stats)
 
 
 <br />
