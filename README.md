@@ -15,11 +15,12 @@ I'm a software developer who is passionate about creating new things, And i'm re
 
 <img align="right" alt="Salih's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev&layout=compact&langs_count=15" />
 
-<div style="margin-top: 50px">
-
+<img />
+<br />
+<br />
+<hr />
+<div>
 [![linkedin Follow](https://img.shields.io/badge/linkedin-@salihcodev-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihcodev) [![Instagram Follow](https://img.shields.io/badge/instagram-@salihcodev-darkslateblue?style=flat&logo=instagram&logoColor=white)](https://instagram.com/salihcodev)
-
-
 </div>
 
 -🔭 Ask me about **ReactJs and Frontend**
