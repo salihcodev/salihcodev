@@ -8,14 +8,11 @@ I'm a software developer who is passionate about creating new things, And i'm re
 
 
 <br />
-<br />
 
 #### Activities;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&theme=dark)
 
-<br />
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev&layout=compact&langs_count=15)](https://github.com/salihcodev/github-readme-stats)
 
