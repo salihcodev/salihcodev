@@ -17,8 +17,7 @@ I'm a software developer who is passionate about creating new things, And i'm re
 <br />
 <br />
 
-<img align="left" alt="Salih's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev&layout=compact)](https://github.com/salihcodev/github-readme-stats)
 
 
 <br />
