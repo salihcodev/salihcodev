@@ -10,10 +10,9 @@ I'm a software developer who is passionate about creating new things, And i'm re
 <br />
 
 #### Activities;
+<img align="left" alt="Salih's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&theme=onedark" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev&layout=compact&langs_count=15)](https://github.com/salihcodev/github-readme-stats)
+<img align="left" alt="Salih's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev&layout=compact&langs_count=15" />
 
 
 <br />
