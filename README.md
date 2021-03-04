@@ -24,8 +24,6 @@ I'm a software developer who is passionate about creating new things, And i'm re
 <br />
 <br />
 
-#### Reach me out;
-
 [![linkedin Follow](https://img.shields.io/badge/linkedin-@salihcodev-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salihcodev) [![Instagram Follow](https://img.shields.io/badge/instagram-@salihcodev-darkslateblue?style=flat&logo=instagram&logoColor=white)](https://instagram.com/salihcodev)
 
 
