@@ -11,9 +11,7 @@ I'm a software developer who is passionate about creating new things, And i'm re
 
 #### Activities;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&theme=dark)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev&layout=compact&langs_count=15)](https://github.com/salihcodev/github-readme-stats)
 
 
