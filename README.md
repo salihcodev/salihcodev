@@ -1,4 +1,4 @@
-### Hi, I'm Ahmed👋
+### Hi, I'm Ahmad👋
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/salihcodev?style=social)](https://twitter.com/salihcodev)
