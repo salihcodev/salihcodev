@@ -16,11 +16,11 @@ I'm a software developer who is passionate about creating new things, And i'm re
 
 #### Activities:
 
-<img align="left" alt="Salih's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev&layout=compact&langs_count=15" />
+<img align="center" alt="Salih's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihcodev&layout=compact&langs_count=20" />
 
 <br />
 
-<img align="right" alt="Salih's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&theme=onedark" />
+<img align="center" alt="Salih's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=salihcodev&show_icons=true&theme=onedark" />
 
 
 
